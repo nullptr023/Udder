@@ -13,6 +13,9 @@
         <array key="HelveticaNeue.ttc">
             <string>HelveticaNeue-Bold</string>
         </array>
+        <array key="HiraginoMincho.ttc">
+            <string>HiraMinProN-W3</string>
+        </array>
     </customFonts>
     <scenes>
         <!--View Controller-->
@@ -34,6 +37,13 @@
                                 <rect key="frame" x="92" y="139" width="191" height="28"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Milk" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3U9-qr-4eh">
+                                <rect key="frame" x="135" y="244" width="104" height="50"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="HiraMinProN-W3" family="Hiragino Mincho ProN" pointSize="50"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
